@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Expiry Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Product Expiry Prediction System</h1>
+        <p>Check your product expiry status</p>
+
+        <form method="POST">
+
+            <label>Product Name</label>
+            <input type="text" name="product" placeholder="Enter product name" required>
+
+            <label>Manufacturing Date</label>
+            <input type="date" name="mfg" required>
+
+            <label>Expiry Date</label>
+            <input type="date" name="expiry" required>
+
+            <button type="submit">Predict Status</button>
+            <button type="reset" class="clear">Clear</button>
+
+        </form>
+
+        {% if result %}
+        <div class="result">
+            <h2>Prediction Result</h2>
+            <h3>{{ result }}</h3>
+        </div>
+        {% endif %}
+
+    </div>
+
+</body>
+</html>
