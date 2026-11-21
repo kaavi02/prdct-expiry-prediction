@@ -1,0 +1,52 @@
+
+Product,Manufacturing_Date,Expiry_Date,Status
+Milk,2026-11-18,2026-11-23,Fresh
+Milk,2026-11-17,2026-11-22,Fresh
+Milk,2026-11-15,2026-11-20,Near Expiry
+Milk,2026-11-10,2026-11-15,Near Expiry
+Milk,2026-11-01,2026-11-05,Expired
+Bread,2026-11-18,2026-11-28,Fresh
+Bread,2026-11-15,2026-11-25,Fresh
+Bread,2026-11-10,2026-11-20,Near Expiry
+Bread,2026-11-05,2026-11-15,Near Expiry
+Bread,2026-11-01,2026-11-10,Expired
+Curd,2026-11-18,2026-11-25,Fresh
+Curd,2026-11-15,2026-11-22,Fresh
+Curd,2026-11-10,2026-11-17,Near Expiry
+Curd,2026-11-05,2026-11-12,Near Expiry
+Curd,2026-11-01,2026-11-07,Expired
+Eggs,2026-11-18,2026-12-02,Fresh
+Eggs,2026-11-10,2026-11-24,Fresh
+Eggs,2026-11-01,2026-11-15,Near Expiry
+Eggs,2026-10-20,2026-11-03,Near Expiry
+Eggs,2026-10-01,2026-10-15,Expired
+Juice,2026-11-18,2026-11-28,Fresh
+Juice,2026-11-15,2026-11-25,Fresh
+Juice,2026-11-10,2026-11-20,Near Expiry
+Juice,2026-11-05,2026-11-15,Near Expiry
+Juice,2026-11-01,2026-11-10,Expired
+Butter,2026-11-18,2026-12-18,Fresh
+Butter,2026-11-10,2026-12-10,Fresh
+Butter,2026-11-01,2026-12-01,Near Expiry
+Butter,2026-10-20,2026-11-19,Near Expiry
+Butter,2026-10-01,2026-10-31,Expired
+Cheese,2026-11-18,2026-12-08,Fresh
+Cheese,2026-11-10,2026-11-30,Fresh
+Cheese,2026-11-01,2026-11-21,Near Expiry
+Cheese,2026-10-20,2026-11-09,Near Expiry
+Cheese,2026-10-01,2026-10-21,Expired
+Paneer,2026-11-18,2026-11-23,Fresh
+Paneer,2026-11-17,2026-11-22,Fresh
+Paneer,2026-11-15,2026-11-20,Near Expiry
+Paneer,2026-11-10,2026-11-15,Near Expiry
+Paneer,2026-11-01,2026-11-05,Expired
+Yogurt,2026-11-18,2026-11-25,Fresh
+Yogurt,2026-11-15,2026-11-22,Fresh
+Yogurt,2026-11-10,2026-11-17,Near Expiry
+Yogurt,2026-11-05,2026-11-12,Near Expiry
+Yogurt,2026-11-01,2026-11-07,Expired
+Apple,2026-11-18,2026-12-03,Fresh
+Apple,2026-11-10,2026-11-25,Fresh
+Apple,2026-11-01,2026-11-16,Near Expiry
+Apple,2026-10-20,2026-11-04,Near Expiry
+Apple,2026-10-01,2026-10-16,Expired
